@@ -36,7 +36,7 @@ A blind **Gemini 3.1 Pro** monitor evaluated 13 synthetic conversations under id
 | Adversarial, full trajectory | 3 | 0 | 0 | **3** |
 | Benign, full trajectory | 3 | **3** | 0 | 0 |
 
-**Zero false positives.** Detection activates only after the CAPTURE phase — when the victim is already trapped.
+**Zero false positives** in proof-of-concept evaluation (n=3).
 
 ---
 
