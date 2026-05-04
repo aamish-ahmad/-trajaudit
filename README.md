@@ -1,5 +1,14 @@
 # 🔍 Detection Latency in Conversational AI Monitoring
 
+## Citation
+
+If you use this work, please cite:
+
+Ahmad, A. (2026). *Trajectory Blindness as Detection Latency in Conversational Monitoring*
+(Detection Latency in Conversational AI Monitoring).
+OSF Preprints. https://doi.org/10.17605/OSF.IO/7GU29
+
+
 ### *A system that detects only after exploitation begins is not a safety system — it is a logging system.*
 
 ---
