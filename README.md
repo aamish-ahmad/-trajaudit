@@ -47,7 +47,14 @@ We introduce a lower-level signal based on latent trajectory geometry.
 
 ![Trajectory Drift vs Output Signal](figures/case1.png)
 
-*Figure 1 — Embedding drift rises early (~turn 12–15), while observable instability appears much later (~turn 35–40), demonstrating detection latency.*
+*Figure 1 — Embedding drift (global shift) begins increasing around turn ~12–15, while local instability (jump) and observable signals (repetition) appear later (~35–40), demonstrating detection latency across signal layers.*
+
+
+### Example: Conversion Phase Dynamics
+
+![Conversion Phase Signals](figures/case2.png)
+
+*Figure 2 — Local instability (jump) and repetition spike sharply near the conversion phase, while earlier drift signals remain smooth, reinforcing the separation between early latent change and late observable behavior.*
 
 ---
 
